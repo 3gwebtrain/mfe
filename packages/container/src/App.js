@@ -1,5 +1,5 @@
-import React from "react";
-import MarketingApp from "./components/MarketingApp";
+import React from 'react'
+import MarketingApp from './components/MarketingApp'
 export default () => {
   return (
     <div>
@@ -7,5 +7,5 @@ export default () => {
       <hr />
       <MarketingApp />
     </div>
-  );
-};
+  )
+}
